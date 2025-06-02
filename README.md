@@ -17,11 +17,14 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in a br
 - **Frameworks & Libraries**:  
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+  ![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
 
 - **Tools & Platforms**:  
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -29,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in a br
 
 Check out my repositories to see some of the things I've been working on! Highlights include:
 - Full-stack web apps
-- Mobile apps with React Native
+- Mobile apps with React Native & Expo
 - Backend APIs with Express.js and Python
 - CLI tools and system-level utilities in C++
 - Academic and side projects using PHP, Java, and more
