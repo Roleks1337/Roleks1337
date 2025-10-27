@@ -51,7 +51,7 @@ Check out my repositories to see some of the things I've been working on! Highli
 ## 📫 Contact Me
 
 - LinkedIn: WIP
-- Email: Wiktor-1338@wp.pl
+- Email: wwojcik1308@gmail.com
 - Website/Portfolio: WIP
 
 ---
