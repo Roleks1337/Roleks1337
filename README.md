@@ -34,10 +34,10 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in a br
 
 Check out my repositories to see some of the things I've been working on! Highlights include:
 - Full-stack web apps
-- Mobile apps with React Native & Expo
+- Mobile apps with React Native or Dart
 - Backend APIs with Express.js and Python
 - CLI tools and system-level utilities in C++
-- Academic and side projects using PHP, Java, and more
+- Academic and side projects using React, Java, and more
 
 ---
 
